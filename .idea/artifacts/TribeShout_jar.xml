@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TribeShout:jar">
+    <output-path>D:/Users/Noah/Documents/Minecraft Servers/Paper 1.13.2/plugins</output-path>
+    <root id="archive" name="TribeShout.jar">
+      <element id="module-output" name="TribeShout" />
+    </root>
+  </artifact>
+</component>

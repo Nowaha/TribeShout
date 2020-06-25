@@ -1,0 +1,10 @@
+name: TribeShout
+version: 1.0
+main: me.nowaha.tribeshout.TribeShout
+api-version: 1.13
+authors: [Nowaha]
+description: TribeShout
+website: www.noahverkaik.com
+commands:
+  shout:
+  shouttoggle:
